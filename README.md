@@ -45,9 +45,9 @@
 
 <div>
 <img style="display: block" alt="인플루언서" src="https://user-images.githubusercontent.com/59603575/118248717-9aa2cf80-b4df-11eb-9a18-d15b8ea5a6b4.png">
-<img style="display: block" alt="캠페인" src="https://user-images.githubusercontent.com/59603575/118248726-9f678380-b4df-11eb-9773-14c3495c21fd.png">
-<img style="display: block" alt="리포트" src="https://user-images.githubusercontent.com/59603575/118248730-a0001a00-b4df-11eb-983b-6884d8cc1f59.png">
-<img style="display: block" alt="세팅" src="https://user-images.githubusercontent.com/59603575/118248733-a098b080-b4df-11eb-90aa-dbad7c116611.png">
+<img style="display: block" alt="캠페인" src="https://user-images.githubusercontent.com/59603575/118253828-55819c00-b4e5-11eb-86b5-cdde9d0802f5.png">
+<img style="display: block" alt="리포트" src="https://user-images.githubusercontent.com/59603575/118253832-56b2c900-b4e5-11eb-8362-ef77e306dabf.png">
+<img style="display: block" alt="세팅" src="https://user-images.githubusercontent.com/59603575/118253835-587c8c80-b4e5-11eb-9d1d-462fbc5ed572.png">
 </div>
 
 <!--로그인 설명-->
