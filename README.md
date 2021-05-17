@@ -235,7 +235,7 @@
 
 ## contact
 
-- 개발팀에 문의 (kunwoo242@gmail.com)
+- 개발팀에 문의 (kunwoo242@neicon.net)
 
 ## Use tech
 
