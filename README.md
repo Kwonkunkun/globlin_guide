@@ -15,7 +15,7 @@
 -->
 
 <!-- PROJECT LOGO -->
-# Globlin guide 
+# Globlin Simple guide 
 - Globlin 간단 가이드 문서
 
 ---
