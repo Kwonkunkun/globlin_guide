@@ -16,7 +16,8 @@
 
 <!-- PROJECT LOGO -->
 # Globlin Simple guide 
-- Globlin 간단 가이드 문서
+- Globlin 간단 소개 문서
+- 더 자세한 내용 설명을 원하신다면 [globlin notion document]()를 참조해주세요!
 
 ---
 
