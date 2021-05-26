@@ -15,7 +15,7 @@
 -->
 
 <!-- PROJECT LOGO -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Globlin Simple guide&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Globlin Simple guide&fontSize=60" />
 
 - Globlin 간단 소개 문서
 - 더 자세한 내용 설명을 원하신다면 [globlin notion document](https://www.notion.so/57a60ad434754963b956fb54c5c29db2)를 참조해주세요!
