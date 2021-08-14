@@ -18,7 +18,8 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Globlin Simple guide&fontSize=60&animation=fadeIn" />
 
 - Globlin 간단 소개 문서 
-- 더 자세한 내용 설명을 원하신다면 [globlin notion document](https://www.notion.so/57a60ad434754963b956fb54c5c29db2)를 참조해주세요!
+- 더 자세한 내용 설명을 원하신다면 [globlin notion document](https://www.notion.so/57a60ad434754963b956fb54c5c29db2)를 참고해주세요!
+- api 명세서는 [globlin api 명세](https://github.com/ddhyun93/globlin_api_guide) 를 참고해주세요!
 
 ---
 
